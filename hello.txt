@@ -1,2 +1,2 @@
-This is the hello file.
-v1.1
+This is the hello file with a small modification.
+v1.2
